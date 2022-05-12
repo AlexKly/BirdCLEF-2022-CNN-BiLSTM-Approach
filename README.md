@@ -1,0 +1,1 @@
+# BirdCLEF 2022: CNN-BiLSTM Approach
